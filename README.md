@@ -1,2 +1,3 @@
 bcomment
 ========
+newline\r
